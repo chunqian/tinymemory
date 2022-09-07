@@ -1,3 +1,3 @@
-module github.com/chunqian/memory
+module github.com/chunqian/tinymemory
 
 go 1.19

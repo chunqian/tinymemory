@@ -1,2 +1,2 @@
-# memory 
-memory pool for cgo.
+# tinymemory 
+tinymemory is memory pool for golang.
